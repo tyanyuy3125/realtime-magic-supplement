@@ -1,10 +1,9 @@
-# (WIP) realtime-magic-supplement
-This repository is the supplement material for the incoming lecture *Realtime Magic: Fundamentals*, including Matlab code, Mathematica code & Blender project files to generate figures in slides and some working examples.
+# realtime-magic-supplement
+This repository is the supplement material for the lecture *Realtime Magic: Fundamentals*, including Matlab code, Mathematica code & Blender project files to generate figures in slides and some working examples.
 
-这是《实时渲染魔法基础》的补充材料。包括插图的Matlab代码、Mathematica代码和Blender工程文件，以及一些可用示例。
+这是[清华大学电子工程系学生科协](https://eesast.com/)软件部寒假培训《实时渲染魔法基础》的补充材料。包括插图的Matlab代码、Mathematica代码和Blender工程文件，以及一些可用示例。
 
 ![](./assets/header.png)
-![](./assets/header6.png)
 ![](./assets/header5.png)
 ![](./assets/header4.png)
 ![](./assets/header2.png)
